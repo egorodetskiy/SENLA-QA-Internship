@@ -1,1 +1,0 @@
-# SENLA-QA-Internship
