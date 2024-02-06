@@ -1,0 +1,106 @@
+/* Courses styles start */
+
+body {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+h1.courses {
+    font-weight: normal;
+    font-size: 200%;
+    margin-left: 280px;
+}
+
+h3.courses {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 150%;
+    margin-left: 280px;
+    line-height: 0;
+}
+
+li {
+   font-size: 120%;
+   text-align: justify;
+   margin-left: 280px;
+   margin-right: 280px;
+}
+
+ul {
+    font-size: 85%;
+    text-align: justify;
+    margin-left: -290px;
+    margin-right: -290px;
+ }
+
+ hr {
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 3%;
+ }
+
+/* Courses styles end */
+
+/* Schedule styles start */
+
+h1.schedule {
+    font-weight: normal;
+    font-size: 200%;
+    margin-left: 660px;
+}
+
+h3.schedule {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 150%;
+    margin-left: 660px;
+    line-height: 0;
+}
+
+table {
+    text-align: center;
+    font-size: 110%;
+    border: 1px solid #000;
+    width: 600px;
+    height: 600px;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+
+tr {
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 25%;
+}
+
+th {
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 25%;
+}
+
+td {
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 25%;
+}
+
+td b {
+    writing-mode: vertical-rl;
+    transform: scale(-1);
+    font-weight: normal;
+}
+
+a {
+  color:#0000EE;
+}
+
+a:visited {
+  color:#551A8B;
+}
+
+/* Schedule styles end */
