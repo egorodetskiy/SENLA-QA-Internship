@@ -1,1 +1,3 @@
-# SENLA-QA-Internship
+SQL 21-30 - DONE.
+
+HTML/CSS - DONE.
